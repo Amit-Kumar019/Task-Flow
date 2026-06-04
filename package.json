@@ -1,0 +1,13 @@
+{
+  "name": "todo-mern-stack",
+  "version": "1.0.0",
+  "description": "Task Management MERN Application",
+  "scripts": {
+    "backend": "npm run dev --prefix backend",
+    "frontend": "npm run dev --prefix frontend",
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

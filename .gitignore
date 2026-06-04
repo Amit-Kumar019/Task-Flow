@@ -1,0 +1,6 @@
+node_modules
+dist
+todo-intern\backend\node_modules
+todo-intern\frontend\node_modules
+backend\.env
+.antigravitycli
