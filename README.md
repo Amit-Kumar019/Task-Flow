@@ -1,4 +1,4 @@
-# Task Management Web Application (MERN Stack)
+# MERN Stack Internship Assignment
 
 This is a clean, modern MERN (MongoDB, Express.js, React.js, Node.js) application designed for managing tasks, complete with JWT authentication, CRUD operations, status toggling, and clean visual cards.
 
